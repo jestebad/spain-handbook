@@ -1,0 +1,55 @@
+#Cómo trabajar correctamente los encabezados
+
+Los **encabezados o headings** son un elemento muy importante en la optimización SEO de los textos que se publican.
+
+Estos encabezados son los que **introducen el contenido** y los jerarquizan para los usuarios y buscadores.
+
+Para poder **crear una correcta estructura de encazabezados** que ayude a posicionar tus páginas o entradas, tienes que seguir unas normas básicas que harán que tus textos posicionen mejor.
+
+## Nociones básicas que tienes que saber antes de nada
+
+- **Los encabezados no se usan para definir tamaños**: Una mala práctica muy común, es usar los encabezados para definir tamaños en las diferentes secciones de un texto. Para definir diferentes tamaños, se usarán siempre los px o tamaños de letras definidos en Wordpress.
+- **Tienen que seguir un orden lógico**: Los encabezados tienen que seguir un orden desde el más importante (H1) hasta el menos importante (H6). Esto no quiere decir que se tengan que usar todos, se usarán los niveles que sean necesarios para cada texto a publicar.
+- **Sólo en el texto del artículo o landing**: Los encabezados únicamente se deben de usar en los textos que se publican. En los menús, footer o secciones laterales no debe 
+
+## Directrices para una correcta estructuración de los encabezados
+
+- Deben usarse **desde el más importante al menos importante** (H1, H2, H3, H4, H5, H6).
+- Sólo se debe de usar **un H1 por cada texto a publicar**, y este debe de tener la Keyword o palabra clave principal. El resto, se pueden utilizar tantas veces como se desee.
+- A nivel SEO e importancia en el posicionamiento, **sólo son relevantes hasta el H3**. El resto se pueden utilizar para estructurar el contenido y dar el contexto que se necesita.
+- Los headings o encabezados **deben de contener las Keyword por las que se quiere posicionar el texto**. El H1 la KW principal y el resto las secundarias.
+- Deben de contener **un máximo de 70 caracteres**, aunque no es obligatorio, es aconsejable para una correcta lectura por parte del usuario.
+
+## Ejemplo de uso de los encabezados
+
+Una correcta estructura de encabezados es como la mostramos abajo:
+
+<H1> Encabezado principal/Título de la página
+          <p> Contenido
+    <H2> Encabezado secundario/Subtítulo
+          <p> Contenido  
+      <H3> Tercer encabezado/Subtítulo
+          <p> Contenido
+      <H3>Tercer encabezado/Subtítulo
+          <p> Contenido
+    <H2> Encabezado secundario/Subtítulo
+        <p> Contenido  
+    <H2> Encabezado secundario/Subtítulo
+          <p> Contenido  
+       <H3>Tercer encabezado/Subtítulo
+          <p> Contenido     
+
+Un ejemplo práctico y entendibe, puede ser por ejemplo:
+
+<H1> Qué ver en España
+    <H2> Qué ver en Castilla y León
+        <H3> Qué ver en Burgos
+            <H4> Qué ver en Medina de Pomar
+        <H3> Qué ver en Ávila
+        <H3> Qué ver en Segovia
+        <H3> ....
+    <H2> Qué ver en Andalucía
+        <H3> Qué ver en Jaén
+        <H3> Qué ver en Sevilla
+        <H3> Qué ver en Córdoba
+        <H3> ....
